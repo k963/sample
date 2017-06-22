@@ -30,7 +30,7 @@ This page displays security controls that are automated via the devops kit and a
 
 <h3 id=go> Controls for Analysis Service</h3>
 
-|Index No|Description	|Control Severity|Automated|Enabled|
+|Index|Description	|Severity|Automated|Enabled|
 |----|------|--------|------|-----|
 |1|All users/identities must be granted minimum required permissions using Role Based Access Control (RBAC)	|Medium|Yes|True|
 |2|Minimize the number of Analysis Service admins	|Medium|Yes|True|
