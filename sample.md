@@ -31,7 +31,7 @@ Apart from security checks for Subscription Security and for multiple Azure Serv
 
 <h3 id=go> Controls for Analysis Service</h3>
 
-|ID|Description	|ControlSeverity|Automated|
+|ID|Description	|Control Severity|Automated|
 |----|------|--------|------|
 |Azure_AnalysisServices_AuthZ_Grant_Min_RBAC_Access|All users/identities must be granted minimum required permissions using Role Based Access Control (RBAC)	|Medium|Yes|
 |Azure_AnalysisServices_AuthZ_Min_Admin|Minimize the number of Analysis Service admins	|Medium|Yes|
