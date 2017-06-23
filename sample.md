@@ -1,6 +1,8 @@
 ## Security controls covered by the Secure DevOps Kit for Azure 
 
-This page displays security controls that are automated via the devops kit and also controls that have to manually verified. Controls have a 'Severity' field to help teams distinguish issues by degree of risk. Apart from that the automated flag indicates whether a particular control is automated and the enabled flag tells whether the check for that control is currently enabled or not. Apart from security checks for Subscription Security and for multiple Azure Services, other features such as Security IntelliSense and Alerting & Monitoring are also covered. 
+This page displays security controls that are automated via the devops kit and also controls that have to manually verified. Controls have a 'Severity' field to help distinguish issues by degree of risk. Apart from that the automated flag indicates whether a particular control is automated and the enabled flag tells whether the check for that control is currently enabled or not. Apart from security checks for Subscription Security and for multiple Azure Services, other features such as Security IntelliSense and Alerting & Monitoring are also covered. 
+
+###  Azure Services supported by AzSDK
 
 | Resource Name |Resource Type|
 |-------|---------- |
